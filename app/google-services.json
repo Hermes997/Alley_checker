@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "31771961152",
+    "project_id": "alleychecker-sharetips",
+    "storage_bucket": "alleychecker-sharetips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31771961152:android:33263b204b09c2ccaabca5",
+        "android_client_info": {
+          "package_name": "com.example.rrss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31771961152-q8p3jvhrsv529qipa6u19276fda46qco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjDPzx6_VMkFNeFAezowRyCMVjxiMj-t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31771961152-q8p3jvhrsv529qipa6u19276fda46qco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

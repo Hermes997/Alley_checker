@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/map"
+        android:icon="@drawable/ic_baseline_map_24"
+        app:showAsAction="always"
+        android:orderInCategory="102"
+        android:title="MainMap"
+        />
+
+    <item
+        android:id="@+id/trashcan1"
+        android:orderInCategory="102"
+        android:title="산격동#1"
+/>
+    <item
+        android:id="@+id/trashcan2"
+        android:orderInCategory="102"
+        android:title="산격동#2"
+ />
+    <item
+        android:id="@+id/trashcan3"
+        android:orderInCategory="102"
+        android:title="산격동#3"
+/>
+
+</menu>
+
